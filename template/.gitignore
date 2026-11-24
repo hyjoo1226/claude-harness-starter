@@ -1,0 +1,8 @@
+# 에이전트 중간 산출물 (조사 결과, 리뷰 기록)
+_workspace/
+# 비밀값, 개인 설정
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.DS_Store
